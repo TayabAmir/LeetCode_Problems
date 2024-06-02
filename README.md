@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0682-baseball-game) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -44,3 +45,11 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+# Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0682-baseball-game) |
+# Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0682-baseball-game) |
