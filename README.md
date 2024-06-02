@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Dynamic Programming
@@ -22,3 +23,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
