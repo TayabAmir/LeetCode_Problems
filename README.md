@@ -50,6 +50,7 @@
 # Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 # Stack
 |  |
