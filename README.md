@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
@@ -15,6 +16,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Hash Table
 |  |
