@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
@@ -61,6 +62,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
