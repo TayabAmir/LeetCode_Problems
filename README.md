@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 # Math
@@ -82,3 +83,7 @@
 | [0777-toeplitz-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
