@@ -22,6 +22,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0338-counting-bits) |
 # Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 # Math
 |  |
