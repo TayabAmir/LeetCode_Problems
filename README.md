@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0777-toeplitz-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
