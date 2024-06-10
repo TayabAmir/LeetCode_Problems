@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
