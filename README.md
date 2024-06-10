@@ -63,6 +63,7 @@
 | ------- |
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -115,3 +117,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
+# Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
