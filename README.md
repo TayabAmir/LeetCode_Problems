@@ -25,6 +25,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3330-modify-the-matrix) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
+| [3330-modify-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3330-modify-the-matrix) |
 # Divide and Conquer
 |  |
 | ------- |
