@@ -31,6 +31,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0338-counting-bits) |
 # Hash Table
 |  |
@@ -74,6 +75,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
@@ -124,5 +126,6 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0342-power-of-four) |
