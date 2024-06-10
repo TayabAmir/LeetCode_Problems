@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@
 # Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -87,6 +89,7 @@
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
