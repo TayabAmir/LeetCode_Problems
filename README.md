@@ -33,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0338-counting-bits) |
+| [1236-n-th-tribonacci-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1236-n-th-tribonacci-number) |
 # Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0342-power-of-four) |
+| [1236-n-th-tribonacci-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 # Stack
 |  |
@@ -129,3 +131,7 @@
 | [0233-number-of-digit-one](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0342-power-of-four) |
+# Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1236-n-th-tribonacci-number) |
