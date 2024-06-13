@@ -65,6 +65,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [1236-n-th-tribonacci-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 # Stack
