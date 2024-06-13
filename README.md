@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
