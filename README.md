@@ -27,6 +27,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3330-modify-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3330-modify-the-matrix) |
 # Dynamic Programming
 |  |
@@ -60,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Matrix
 |  |
 | ------- |
