@@ -66,6 +66,7 @@
 | [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 # Stack
@@ -112,6 +114,7 @@
 | [0283-move-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 # Matrix
 |  |
