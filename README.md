@@ -24,6 +24,7 @@
 | [0777-toeplitz-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
@@ -44,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # String
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0075-sort-colors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
@@ -159,3 +162,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0204-count-primes) |
+# Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
