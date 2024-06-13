@@ -50,12 +50,14 @@
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 # Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 # Binary Search
 |  |
 | ------- |
