@@ -101,6 +101,7 @@
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 # Stack
 |  |
