@@ -1,12 +1,12 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        unordered_map<char,bool> m;
+        bool arr[26] = {false};
         for(int i=0;i<s.length();i++)
-            if(m.find(s[i]) != m.end())
+            if(arr[s[i]-'a'])
                 return s[i];
             else
-                m[s[i]] = true;
-        return 'A';
+                arr[s[i]-'a'] = true;
+        return ' ';
     }
 };
