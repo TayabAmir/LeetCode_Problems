@@ -1,9 +1,13 @@
 class Solution {
 public:
     int minimizedStringLength(string s) {
-        set<char> dis;
-        for(char ele : s)
-            dis.insert(ele);
-        return dis.size();
+        bool arr[26]={false};
+        int c=0;
+        for(int i=0;i<s.length();i++)
+            if(!arr[s[i]-'a']){
+                arr[s[i]-'a'] = true;
+                c++;
+            }
+        return c;
     }
 };
