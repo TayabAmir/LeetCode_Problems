@@ -49,6 +49,7 @@
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2825-minimize-string-length) |
 # String
@@ -61,6 +62,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2825-minimize-string-length) |
 | [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
