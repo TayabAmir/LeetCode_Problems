@@ -60,6 +60,7 @@
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
@@ -134,6 +135,7 @@
 | [0283-move-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
