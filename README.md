@@ -24,6 +24,7 @@
 | [0777-toeplitz-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
+| [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
+| [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 # String
@@ -56,6 +58,7 @@
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
 # Sorting
