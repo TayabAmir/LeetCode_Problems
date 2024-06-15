@@ -60,6 +60,7 @@
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2825-minimize-string-length) |
 | [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -182,3 +183,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+# Greedy
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
