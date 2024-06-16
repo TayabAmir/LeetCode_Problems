@@ -3,8 +3,9 @@ public:
     string countAndSay(int n) {
         if (n == 1) return "1";
         string output = "1";
-        while(--n)
+        for (int i = 1; i < n; ++i) {
             output = helper(output);
+        }
         return output;
     }
     string helper(string s){
