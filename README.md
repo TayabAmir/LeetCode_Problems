@@ -32,6 +32,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3330-modify-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3330-modify-the-matrix) |
@@ -131,6 +132,7 @@
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [3330-modify-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3330-modify-the-matrix) |
 # Divide and Conquer
