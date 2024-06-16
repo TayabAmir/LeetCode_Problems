@@ -25,6 +25,7 @@
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
+| [1044-find-common-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -54,6 +55,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
+| [1044-find-common-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
@@ -71,6 +73,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
+| [1044-find-common-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
