@@ -63,6 +63,7 @@
 # String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
