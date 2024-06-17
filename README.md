@@ -127,6 +127,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2571-find-the-pivot-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2571-find-the-pivot-integer) |
 # Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0238-product-of-array-except-self](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2571-find-the-pivot-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2571-find-the-pivot-integer) |
 # Recursion
 |  |
 | ------- |
