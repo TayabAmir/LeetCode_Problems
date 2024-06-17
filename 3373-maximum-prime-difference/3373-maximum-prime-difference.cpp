@@ -8,16 +8,14 @@ public:
         return true;
     }
     int maximumPrimeDifference(vector<int>& nums) {
-        int m = -1,n = -1,i = 0, j = nums.size()-1;
-        while(m == -1){
+        int m = -1,n = -1;
+        for(int i=0, j=nums.size()-1;m == -1 || n == -1;){
             if(isPrime(nums[i]))
                 m = i;
-            i++;
-        }
-        while(n == -1){
+            else i++;
             if(isPrime(nums[j]))
                 n = j;
-            j--;
+            else j--;
         }
         return abs(m-n);
     }
