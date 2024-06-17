@@ -35,6 +35,7 @@
 | [1791-richest-customer-wealth](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -129,6 +130,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2571-find-the-pivot-integer) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2507-number-of-common-factors) |
 # Counting
