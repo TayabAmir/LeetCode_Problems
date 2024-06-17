@@ -129,6 +129,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2491-smallest-even-multiple](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2571-find-the-pivot-integer) |
 # Stack
 |  |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2491-smallest-even-multiple) |
 # Counting
 |  |
 | ------- |
