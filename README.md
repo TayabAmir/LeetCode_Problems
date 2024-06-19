@@ -135,6 +135,7 @@
 | [2491-smallest-even-multiple](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2571-find-the-pivot-integer) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3373-maximum-prime-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3373-maximum-prime-difference) |
 # Stack
@@ -151,6 +152,7 @@
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 # Two Pointers
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2507-number-of-common-factors) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3373-maximum-prime-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3373-maximum-prime-difference) |
 # Counting
