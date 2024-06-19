@@ -15,8 +15,11 @@ public:
         return sum;
     }
     int smallestValue(int n) {
-        while(n != sumofPF(n))
+        while(true){
+            if(n == sumofPF(n))
+                return n;
             n = sumofPF(n);
-        return n;
+        }
+        return -1;
     }
 };
