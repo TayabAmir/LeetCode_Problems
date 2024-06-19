@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
@@ -201,6 +202,7 @@
 # Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
