@@ -139,6 +139,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2481-strictly-palindromic-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2571-find-the-pivot-integer) |
@@ -173,6 +174,7 @@
 | [0541-reverse-string-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0861-flipping-an-image) |
+| [2481-strictly-palindromic-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Matrix
 |  |
@@ -250,3 +252,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+# Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
