@@ -1,14 +1,9 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int i = 0;
-        while(i < s.length() && s[i] != 'b')
-            i++;
-        while(i<s.length()){
-            if(s[i] == 'a')
+        for(int i=0;i<s.length()-1;i++)
+            if(s[i]=='b' && s[i+1] == 'a')
                 return false;
-            i++;
-        }
         return true;
     }
 };
