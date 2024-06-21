@@ -83,6 +83,7 @@
 | [1044-find-common-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2825-minimize-string-length) |
 | [2887-sort-vowels-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2887-sort-vowels-in-a-string) |
