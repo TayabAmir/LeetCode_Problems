@@ -79,6 +79,7 @@
 | [0344-reverse-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
+| [0858-masking-personal-information](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0858-masking-personal-information) |
 | [0926-find-and-replace-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0926-find-and-replace-pattern) |
 | [1044-find-common-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1044-find-common-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
