@@ -24,12 +24,9 @@ public:
         else{
             s = getDigits(s);
             res="***-***-"+s.substr(s.length()-4);
-            if(s.length() == 11)
-                res = "+*-" + res;
-            else if(s.length() == 12)
-                res = "+**-" + res;
-            else if(s.length() == 13)
-                res = "+***-" + res;
+            if(s.length() == 10)
+                return res;
+            res = "+" + string(s.length()-10, '*') + "-" + res;
         }
         return res;
     }
