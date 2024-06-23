@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0290-word-pattern) |
@@ -257,3 +259,7 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
