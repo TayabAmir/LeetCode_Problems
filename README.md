@@ -41,6 +41,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2388-replace-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -68,6 +69,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2388-replace-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2825-minimize-string-length) |
 # String
@@ -163,6 +165,7 @@
 | [0898-transpose-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2388-replace-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 # Two Pointers
 |  |
