@@ -41,6 +41,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2737-row-with-maximum-ones](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2737-row-with-maximum-ones) |
@@ -69,6 +70,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2825-minimize-string-length) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 # Heap (Priority Queue)
 |  |
