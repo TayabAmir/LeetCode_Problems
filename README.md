@@ -275,6 +275,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -299,4 +300,20 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
