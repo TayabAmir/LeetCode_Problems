@@ -274,6 +274,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -291,6 +292,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -307,6 +309,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Sorting
 |  |
