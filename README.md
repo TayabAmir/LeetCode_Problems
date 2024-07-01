@@ -283,6 +283,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
