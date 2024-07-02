@@ -308,6 +308,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -317,8 +318,22 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
