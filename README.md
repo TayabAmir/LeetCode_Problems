@@ -309,6 +309,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -324,10 +325,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
