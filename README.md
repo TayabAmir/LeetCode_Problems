@@ -316,6 +316,7 @@
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Divide and Conquer
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
@@ -365,4 +367,12 @@
 |  |
 | ------- |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
