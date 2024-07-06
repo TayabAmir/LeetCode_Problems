@@ -289,6 +289,7 @@
 | [0007-reverse-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Two Pointers
 |  |
@@ -310,6 +311,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
 | ------- |
