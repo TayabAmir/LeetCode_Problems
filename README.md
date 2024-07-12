@@ -280,6 +280,7 @@
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [1293-three-consecutive-odds](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -404,4 +406,12 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
