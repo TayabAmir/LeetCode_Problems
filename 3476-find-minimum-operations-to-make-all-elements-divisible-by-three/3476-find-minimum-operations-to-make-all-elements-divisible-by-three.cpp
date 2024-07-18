@@ -3,8 +3,7 @@ public:
     int minimumOperations(vector<int>& nums) {
         int ops = 0;
         for(int ele : nums)
-            if(ele % 3 != 0)
-                ops++;
+            ops += min(ele % 3, 3 - (ele % 3));
         return ops;
     }
 };
