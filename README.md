@@ -292,6 +292,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
