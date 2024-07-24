@@ -13,6 +13,7 @@ public:
                 }
                 break;
             } else if(target == matrix[i][n-1]) return true;
+            else if(matrix[i][0] > target) break;
         }
         return false;
     }
