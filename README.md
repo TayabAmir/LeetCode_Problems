@@ -312,6 +312,7 @@
 | [0009-palindrome-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
@@ -473,4 +474,8 @@
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
