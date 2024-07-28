@@ -451,6 +451,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -489,6 +490,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
