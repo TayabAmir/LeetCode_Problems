@@ -337,6 +337,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -478,6 +479,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
@@ -522,6 +524,7 @@
 | [1765-merge-in-between-linked-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
