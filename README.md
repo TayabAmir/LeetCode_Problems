@@ -321,6 +321,7 @@
 | [2556-convert-the-temperature](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2812-find-the-maximum-achievable-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -478,6 +479,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -521,6 +523,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Merge Sort
 |  |
