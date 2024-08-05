@@ -281,6 +281,7 @@
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -487,6 +488,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -558,6 +560,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
