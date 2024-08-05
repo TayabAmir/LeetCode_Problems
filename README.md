@@ -309,6 +309,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
@@ -380,6 +381,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Divide and Conquer
@@ -509,6 +511,7 @@
 | [0260-single-number-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0260-single-number-iii) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
