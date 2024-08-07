@@ -278,6 +278,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -357,6 +359,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -504,6 +507,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
@@ -581,6 +585,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
