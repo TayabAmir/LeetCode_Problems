@@ -294,6 +294,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
@@ -368,6 +369,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1803-average-waiting-time](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -506,6 +508,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
