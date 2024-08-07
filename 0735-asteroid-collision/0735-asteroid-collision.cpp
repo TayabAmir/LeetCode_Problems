@@ -7,10 +7,10 @@ public:
                 st.push(i);
             } else {
                 while(!st.empty()){
-                    if(abs(asteroids[i]) > asteroids[st.top()]){
+                    if(asteroids[i] + asteroids[st.top()] < 0){
                         asteroids[st.top()] = 1001;
                         st.pop();
-                    } else if(abs(asteroids[i]) < asteroids[st.top()]){
+                    } else if(asteroids[i] + asteroids[st.top()] > 0){
                         asteroids[i] = 1001;
                         break;
                     } else {
