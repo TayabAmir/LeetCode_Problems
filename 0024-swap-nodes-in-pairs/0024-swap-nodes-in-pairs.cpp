@@ -20,9 +20,9 @@ public:
         
         while(currNode && currNode->next){
             prevNode->next = currNode->next;
-            currNode->next = prevNode->next->next;
+            // ListNode *Next = currNode->next;
+            currNode->next = currNode->next->next;
             prevNode->next->next = currNode;
-            
             prevNode = currNode;
             currNode = currNode->next;
         }
