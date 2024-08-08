@@ -281,6 +281,7 @@
 | [0041-first-missing-positive](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -389,6 +390,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
@@ -550,6 +552,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
