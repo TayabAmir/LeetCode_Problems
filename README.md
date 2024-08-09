@@ -316,6 +316,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -401,6 +402,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
@@ -431,6 +433,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 ## String
 |  |
 | ------- |
@@ -449,6 +452,7 @@
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 ## Heap (Priority Queue)
