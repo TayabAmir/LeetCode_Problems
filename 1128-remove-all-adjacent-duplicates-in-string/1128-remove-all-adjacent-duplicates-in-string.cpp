@@ -1,5 +1,12 @@
 class Solution {
 public:
+    void getString(string &res, stack<char> st){
+        if(st.empty()) return;
+        char c = st.top();
+        st.pop();
+        getString(res,st);
+        res += c;
+    }
     string removeDuplicates(string s) {
         stack<char> st;
         for(int i = 0; i < s.length(); ++i){
@@ -10,11 +17,7 @@ public:
             }
         }
         string res = "";
-        while(!st.empty()){
-            res += st.top();
-            st.pop();
-        }
-        reverse(res.begin(),res.end());
+        getString(res,st);
         return res;
     }
 };
