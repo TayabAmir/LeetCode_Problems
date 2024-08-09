@@ -1,24 +1,21 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int n = nums.size(),product = 1,zeroCount = 0;
-        vector<int> output;
-        for(int ele : nums){
-            if(ele != 0)
-                product *= ele;
-            else
-                ++zeroCount;
-        }for(int ele : nums){
-            if(ele !=0)
-                if(zeroCount == 0)
-                    output.push_back(product/ele);
-                else
-                    output.push_back(0);
-            else if(zeroCount == 1)
-                output.push_back(product);
-            else if(zeroCount > 1)
-                output.push_back(0);
+        int n = nums.size(),product = 1,zeroCount = 0, idx = -1;
+        vector<int> output(n,0);
+        for(int i = 0; i < n; i++){
+            if(nums[i] != 0)
+                product *= nums[i];
+            else{
+                ++zeroCount,idx = i;
+            }
         }
+            if(zeroCount == 1) output[idx] = product;
+            else if(zeroCount > 1) return output;
+            else {
+                for(int i = 0; i < n; i++)
+                    output[i] = product/nums[i];
+            }
         return output;
     }
 };
