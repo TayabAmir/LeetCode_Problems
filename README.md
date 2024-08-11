@@ -309,6 +309,7 @@
 | [1293-three-consecutive-odds](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
@@ -336,6 +337,7 @@
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2556-convert-the-temperature](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2556-convert-the-temperature) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -504,6 +506,7 @@
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Hash Function
 |  |
@@ -524,6 +527,7 @@
 ## Queue
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -622,4 +626,5 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
