@@ -302,6 +302,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -509,6 +510,7 @@
 | [0225-implement-stack-using-queues](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0860-design-circular-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -534,6 +536,7 @@
 | [0225-implement-stack-using-queues](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -607,6 +610,7 @@
 | [0328-odd-even-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
