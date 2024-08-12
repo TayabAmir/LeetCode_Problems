@@ -316,6 +316,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
+| [1767-design-front-middle-back-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1767-design-front-middle-back-queue) |
 | [1803-average-waiting-time](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -516,6 +517,7 @@
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1767-design-front-middle-back-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1767-design-front-middle-back-queue) |
 ## Hash Function
 |  |
 | ------- |
@@ -541,6 +543,7 @@
 | [0859-design-circular-deque](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1767-design-front-middle-back-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1767-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -619,6 +622,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1765-merge-in-between-linked-lists) |
+| [1767-design-front-middle-back-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1767-design-front-middle-back-queue) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -644,6 +648,7 @@
 | ------- |
 | [0937-online-stock-span](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1767-design-front-middle-back-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1767-design-front-middle-back-queue) |
 ## Sliding Window
 |  |
 | ------- |
