@@ -306,6 +306,7 @@
 | [0859-design-circular-deque](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
@@ -386,6 +387,7 @@
 | [0011-container-with-most-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0890-lemonade-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
