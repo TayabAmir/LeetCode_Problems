@@ -274,6 +274,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -357,6 +358,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
@@ -381,6 +383,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
