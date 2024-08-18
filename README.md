@@ -361,6 +361,7 @@
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3371-harshad-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
