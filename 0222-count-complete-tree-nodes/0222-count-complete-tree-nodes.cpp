@@ -11,15 +11,8 @@
  */
 class Solution {
 public:
-    void preOrderTraversal(TreeNode* root, int &count){
-        if(!root) return;
-        count++;
-        preOrderTraversal(root->left,count);
-        preOrderTraversal(root->right,count);
-    }
     int countNodes(TreeNode* root) {
-        int c = 0;
-        preOrderTraversal(root,c);
-        return c;
+        if(!root) return 0;
+        return countNodes(root->left) + countNodes(root->right) + 1; 
     }
 };
