@@ -310,6 +310,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
+| [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -379,6 +380,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -399,6 +401,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
+| [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -454,6 +457,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
