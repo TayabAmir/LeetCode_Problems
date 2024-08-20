@@ -357,6 +357,7 @@
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2556-convert-the-temperature](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2556-convert-the-temperature) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
@@ -415,6 +416,7 @@
 | [1803-average-waiting-time](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
 | [2834-relocate-marbles](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2834-relocate-marbles) |
