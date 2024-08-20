@@ -350,6 +350,7 @@
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -664,6 +665,7 @@
 | [0206-reverse-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0859-design-circular-deque) |
@@ -773,4 +775,12 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
