@@ -12,15 +12,14 @@
 class Solution {
 public:
     vector<int> arr;
-    void preOrder(TreeNode* root){
+    void inOrder(TreeNode* root){
         if(!root) return;
+        inOrder(root->left);
         arr.push_back(root->val);
-        preOrder(root->left);
-        preOrder(root->right);
+        inOrder(root->right);
     }
     int kthSmallest(TreeNode* root, int k) {
-        preOrder(root);
-        sort(arr.begin(),arr.end());
+        inOrder(root);
         return arr[k-1];
     }
 };
