@@ -13,10 +13,8 @@ class Solution {
 public:
     bool checkEquality(TreeNode *root, TreeNode *subRoot){
         if(!root && !subRoot) return true;
-        if((root && !subRoot) || (!root && subRoot)) return false;
-        if(root->val == subRoot->val)
+        if((root && !subRoot) || (!root && subRoot) || root->val != subRoot->val) return false;
             return checkEquality(root->left,subRoot->left) && checkEquality(root->right,subRoot->right);
-        return false;
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(!root) return false;
