@@ -746,6 +746,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+| [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -763,6 +764,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+| [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -782,6 +784,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+| [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -795,6 +798,7 @@
 | [0112-path-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
