@@ -330,6 +330,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -361,6 +362,7 @@
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2507-number-of-common-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2507-number-of-common-factors) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2556-convert-the-temperature) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2645-pass-the-pillow](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2645-pass-the-pillow) |
