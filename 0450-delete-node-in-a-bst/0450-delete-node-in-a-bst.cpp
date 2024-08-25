@@ -35,17 +35,13 @@ public:
                 delete root;
                 return temp;
             }
-            if(root->left && root->right){
-                int val = getMinValueRoot(root->right)->val;
-                root->val = val;
-                root->right = deleteNode(root->right, val);
-                return root;
-            }
-        } else if(root->val > key){
-            root->left = deleteNode(root->left, key);
-        } else {
-            root->right = deleteNode(root->right, key);
-        }
+            int val = getMinValueRoot(root->right)->val;
+            root->val = val;
+            root->right = deleteNode(root->right, val);
+            return root;
+        } 
+        else if(root->val > key) root->left = deleteNode(root->left, key);
+        else root->right = deleteNode(root->right, key);
         return root;
     }
 };
