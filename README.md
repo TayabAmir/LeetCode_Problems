@@ -687,6 +687,7 @@
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -788,6 +789,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -876,4 +878,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
