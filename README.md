@@ -413,6 +413,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
@@ -461,6 +462,7 @@
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
@@ -765,6 +767,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -794,6 +797,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -826,6 +830,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -858,6 +863,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Brainteaser
 |  |
 | ------- |
