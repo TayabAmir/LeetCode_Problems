@@ -20,14 +20,15 @@ public:
 
 class Solution {
 public:
-    vector<int> ans;
-    void preHelper(Node *root){
+    void preHelper(Node *root, vector<int> &ans){
+        if(!root) return;
         ans.push_back(root->val);
-        for(auto r : root->children)
-            preHelper(r);
+        for(Node* r : root->children)
+            preHelper(r, ans);
     }
     vector<int> preorder(Node* root) {
-        preHelper(root);
+        vector<int> ans;
+        preHelper(root, ans);
         return ans;
     }
 };
