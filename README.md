@@ -316,6 +316,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1293-three-consecutive-odds](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -447,6 +448,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -508,6 +510,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
