@@ -404,6 +404,7 @@
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -783,6 +784,7 @@
 | [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -816,6 +818,7 @@
 | [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -854,6 +857,7 @@
 | [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -892,6 +896,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
