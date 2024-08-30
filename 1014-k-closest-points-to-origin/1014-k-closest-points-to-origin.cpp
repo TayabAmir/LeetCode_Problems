@@ -5,16 +5,14 @@ public:
     }
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
         priority_queue<pair<double, vector<int>>> pq;
-
+        
         for(auto v : points){
             pq.push(make_pair(calculateDistance(v[0], v[1]), v));
             if(pq.size() > k) pq.pop();
         }
-
-        points.clear();
-
+        points.resize(k);
         while(!pq.empty()){
-            points.push_back(pq.top().second);
+            points[--k] = pq.top().second;
             pq.pop();
         }
         return points;
