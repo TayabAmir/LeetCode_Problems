@@ -2,8 +2,8 @@ class SeatManager {
 public:
     priority_queue<int, vector<int>, greater<int>> pq;
     SeatManager(int n) {
-        for(int i = 1; i <= n; ++i)
-            pq.push(i);
+        while(n)
+            pq.push(n--);
     }
     
     int reserve() {
