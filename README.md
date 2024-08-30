@@ -314,6 +314,7 @@
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -363,6 +364,7 @@
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
+| [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -480,6 +482,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
@@ -493,6 +496,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -549,6 +553,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1955-seat-reservation-manager) |
@@ -710,6 +715,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
@@ -972,4 +978,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
