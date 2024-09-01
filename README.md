@@ -532,6 +532,7 @@
 | [0179-largest-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
@@ -619,6 +620,7 @@
 | [0225-implement-stack-using-queues](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0859-design-circular-deque) |
@@ -822,6 +824,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -861,6 +864,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
@@ -899,6 +903,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -931,6 +936,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
