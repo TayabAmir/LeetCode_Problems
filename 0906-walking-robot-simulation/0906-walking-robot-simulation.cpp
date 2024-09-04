@@ -6,9 +6,9 @@ public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
         int x = 0, y = 0;
         int direction = 1, euclideanDistance = INT_MIN;
-        map<pair<int,int>,int> m;
+        set<pair<int,int>> s;
         for(auto v : obstacles)
-            m[{v[0],v[1]}] = 1;
+            s.insert({v[0],v[1]});
         for(int i = 0; i < commands.size(); ++i){
             if(commands[i] == -1){
                 direction = (direction % 4) + 1;
@@ -16,25 +16,24 @@ public:
                 direction = direction - 1;
                 if(direction == 0) direction = 4;
             } else {
-                int points = commands[i];
                 if(direction == 1){
-                    for(int i = 0; i < points; i++){
-                        if(m[{x, y+1}] == 1) break;
+                    for(int j = 0; j < commands[i]; j++){
+                        if(s.find({x, y+1}) != s.end()) break;
                         y++;
                     }
                 } else if(direction == 2){
-                    for(int i = 0; i < points; i++){
-                        if(m[{x+1, y}] == 1) break;
+                    for(int j = 0; j < commands[i]; j++){
+                        if(s.find({x+1, y}) != s.end()) break;
                         x++;
                     }
                 } else if(direction == 3){
-                    for(int i = 0; i < points; i++){
-                        if(m[{x, y-1}] == 1) break;
+                    for(int j = 0; j < commands[i]; j++){
+                        if(s.find({x, y-1}) != s.end()) break;
                         y--;
                     }
                 } else {
-                    for(int i = 0; i < points; i++){
-                        if(m[{x-1, y}] == 1) break;
+                    for(int j = 0; j < commands[i]; j++){
+                        if(s.find({x-1, y}) != s.end()) break;
                         x--;
                     }
                 }
