@@ -9,10 +9,10 @@ public:
 
         vector<int> ans;
         while(n){
-            int dice = remaining / n;
-            if(dice <= 0) return {};
-            ans.push_back(dice);
-            remaining -= dice, n--;
+            sum = remaining / n--;
+            if(sum <= 0) return {};
+            ans.push_back(sum);
+            remaining -= sum;
         }
         return ans;
     }
