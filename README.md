@@ -375,6 +375,7 @@
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
+| [0897-prime-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -630,6 +631,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0897-prime-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [2507-number-of-common-factors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2507-number-of-common-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
