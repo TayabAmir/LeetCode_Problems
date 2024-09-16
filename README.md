@@ -304,6 +304,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -376,6 +377,7 @@
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
+| [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0897-prime-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -525,6 +527,7 @@
 | [0295-find-median-from-data-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0948-sort-an-array) |
@@ -565,6 +568,7 @@
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
