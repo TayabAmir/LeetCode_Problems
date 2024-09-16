@@ -14,9 +14,8 @@ public:
     int getLength(ListNode* head){
         ListNode* temp = head;
         int length = 0;
-        while(temp){
+        while(temp)
             length++, temp = temp->next;
-        }
         return length;
     }
     bool isPalindrome(ListNode* head) {
@@ -30,7 +29,6 @@ public:
         isPalindrome(head, head2->next, n, count);
         if(i == n/2) return;
         if(head->val == head2->val) count++;
-        head = head->next;
-        i++;
+        head = head->next, i++;
     }
 };
