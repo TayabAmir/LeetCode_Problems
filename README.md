@@ -491,6 +491,7 @@
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
@@ -682,6 +683,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0432-all-oone-data-structure](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -821,6 +823,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
+| [0432-all-oone-data-structure](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -1069,6 +1072,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Radix Sort
 |  |
