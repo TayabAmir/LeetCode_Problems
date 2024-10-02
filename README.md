@@ -381,6 +381,7 @@
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
+| [0537-complex-number-multiplication](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0897-prime-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
@@ -463,6 +464,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0906-walking-robot-simulation) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -585,6 +587,7 @@
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
