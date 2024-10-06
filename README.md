@@ -649,6 +649,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
@@ -1109,4 +1110,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
