@@ -361,6 +361,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2834-relocate-marbles](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2834-relocate-marbles) |
@@ -463,6 +464,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [2066-add-minimum-number-of-rungs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
 |  |
@@ -636,6 +638,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bucket Sort
 |  |
 | ------- |
