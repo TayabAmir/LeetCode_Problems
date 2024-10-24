@@ -606,6 +606,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -733,6 +734,7 @@
 | [0234-palindrome-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
@@ -773,6 +775,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1197-parsing-a-boolean-expression](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
