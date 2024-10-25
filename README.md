@@ -383,6 +383,7 @@
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
@@ -666,6 +667,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
