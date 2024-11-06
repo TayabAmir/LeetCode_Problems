@@ -368,6 +368,7 @@
 | [2834-relocate-marbles](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2845-find-the-value-of-the-partition) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3291-find-if-array-can-be-sorted](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -574,6 +575,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2834-relocate-marbles](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2834-relocate-marbles) |
 | [2845-find-the-value-of-the-partition](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2845-find-the-value-of-the-partition) |
+| [3291-find-if-array-can-be-sorted](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -805,6 +807,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3291-find-if-array-can-be-sorted](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
