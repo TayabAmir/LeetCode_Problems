@@ -986,6 +986,7 @@
 | [0386-lexicographical-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1062,6 +1063,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
@@ -1154,11 +1156,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
