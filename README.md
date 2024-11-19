@@ -993,6 +993,7 @@
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1071,6 +1072,7 @@
 | [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0871-keys-and-rooms](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0871-keys-and-rooms) |
@@ -1163,6 +1165,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -1170,6 +1173,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0871-keys-and-rooms](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
