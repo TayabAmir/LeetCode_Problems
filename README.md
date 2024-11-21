@@ -529,6 +529,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2413-smallest-number-in-infinite-set](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2455-node-with-highest-edge-score](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2455-node-with-highest-edge-score) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1181,6 +1182,7 @@
 | [1039-find-the-town-judge](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2455-node-with-highest-edge-score](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2455-node-with-highest-edge-score) |
 ## Topological Sort
 |  |
 | ------- |
