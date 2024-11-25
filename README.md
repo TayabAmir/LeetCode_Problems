@@ -393,6 +393,7 @@
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0492-construct-the-rectangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
