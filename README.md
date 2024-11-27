@@ -380,6 +380,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -1095,6 +1096,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1195,6 +1197,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2455-node-with-highest-edge-score) |
 | [3189-find-champion-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
