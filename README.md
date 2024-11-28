@@ -364,6 +364,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -665,6 +666,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1955-seat-reservation-manager) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2413-smallest-number-in-infinite-set](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -844,6 +846,7 @@
 | [2089-maximum-matrix-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Backtracking
@@ -1103,6 +1106,7 @@
 | [1254-deepest-leaves-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1205,6 +1209,7 @@
 | [1039-find-the-town-judge](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2455-node-with-highest-edge-score](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2455-node-with-highest-edge-score) |
 | [3189-find-champion-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1216,5 +1221,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
