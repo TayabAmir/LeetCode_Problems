@@ -622,6 +622,7 @@
 | [0038-count-and-say](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
@@ -863,6 +864,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Quickselect
 |  |
@@ -974,6 +976,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1017,6 +1020,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1064,6 +1068,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
