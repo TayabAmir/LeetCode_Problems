@@ -660,6 +660,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3462-vowels-game-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3636-check-balanced-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3636-check-balanced-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
