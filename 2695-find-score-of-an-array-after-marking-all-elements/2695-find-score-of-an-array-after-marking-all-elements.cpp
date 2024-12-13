@@ -2,10 +2,10 @@ class Solution {
 public:
     long long findScore(vector<int>& nums) {
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        int n = nums.size();
+        for(int i = 0; i < n; i++) pq.push({nums[i], i});
 
-        for(int i = 0; i < nums.size(); i++) pq.push({nums[i], i});
-
-        vector<int> visited(nums.size(), false);
+        vector<int> visited(n, false);
 
         long long score = 0;
         while(!pq.empty()){
