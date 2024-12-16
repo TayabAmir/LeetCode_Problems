@@ -388,6 +388,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
@@ -429,6 +430,7 @@
 | [3371-harshad-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -520,6 +522,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2834-relocate-marbles](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2834-relocate-marbles) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -698,6 +701,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
