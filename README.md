@@ -662,6 +662,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
@@ -759,6 +760,7 @@
 | [0238-product-of-array-except-self](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
