@@ -368,6 +368,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -764,6 +765,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
