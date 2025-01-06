@@ -357,6 +357,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2066-add-minimum-number-of-rungs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2066-add-minimum-number-of-rungs) |
@@ -672,6 +673,7 @@
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -768,6 +770,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
