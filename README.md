@@ -390,6 +390,7 @@
 | [2845-find-the-value-of-the-partition](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2845-find-the-value-of-the-partition) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -690,6 +691,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3462-vowels-game-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3636-check-balanced-string) |
 ## Heap (Priority Queue)
@@ -804,6 +806,7 @@
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1233,6 +1236,7 @@
 | [0572-subtree-of-another-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1255,6 +1259,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
 | ------- |
@@ -1306,4 +1311,8 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
