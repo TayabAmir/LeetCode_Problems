@@ -409,6 +409,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
@@ -823,6 +824,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
@@ -886,6 +888,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
