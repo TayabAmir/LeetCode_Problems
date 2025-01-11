@@ -499,6 +499,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
+| [1502-construct-k-palindrome-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2066-add-minimum-number-of-rungs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2089-maximum-matrix-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2089-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -563,6 +564,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -637,6 +639,7 @@
 | [0692-top-k-frequent-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1502-construct-k-palindrome-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
@@ -671,6 +674,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
