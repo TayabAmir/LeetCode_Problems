@@ -503,6 +503,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2066-add-minimum-number-of-rungs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2089-maximum-matrix-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2089-maximum-matrix-sum) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -689,6 +690,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -878,6 +880,7 @@
 | [1666-make-the-string-great](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
