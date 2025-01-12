@@ -1,19 +1,11 @@
 class Solution {
 public:
-    void printStack(stack<int> st){
-        while(!st.empty())
-            {
-                cout << st.top(); st.pop();
-            }
-
-    }
     bool canBeValid(string s, string locked) {
         int n = s.length();
         if (n % 2 == 1)
             return false;
         stack<int> st;
         vector<int> ls;
-        // int ul = 0;
         for (int i = 0; i < n; ++i) {
             if(locked[i] == '0') ls.push_back(i);
             else if (s[i] == '(')
@@ -27,10 +19,7 @@ public:
                 ls.pop_back();
             }
         }
-        // printStack(st);
-        // cout << endl;
-        // for (auto it = ls.begin(); it != ls.end(); ++it)
-        //     cout << ' ' << *it;
+
         if(st.empty()){
             return ls.size() % 2 == 0;
         } else {
