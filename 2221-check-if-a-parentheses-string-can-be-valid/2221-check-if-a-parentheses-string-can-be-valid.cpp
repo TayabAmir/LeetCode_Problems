@@ -5,7 +5,7 @@ public:
         if (n % 2 == 1)
             return false;
         stack<int> st;
-        vector<int> ls;
+        list<int> ls;
         for (int i = 0; i < n; ++i) {
             if(locked[i] == '0') ls.push_back(i);
             else if (s[i] == '(')
