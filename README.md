@@ -378,6 +378,7 @@
 | [2465-shifting-letters-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -901,6 +902,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1232,6 +1234,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
