@@ -1,14 +1,3 @@
-struct CustomComparator {
-    bool operator()(const pair<int, pair<int, int>>& a, const pair<int, pair<int, int>>& b) const {
-        if (a.first != b.first) {
-            return a.first > b.first; 
-        }
-        if (a.second.first != b.second.first) {
-            return a.second.first < b.second.first;
-        }
-        return a.second.second < b.second.second;
-    }
-};
 
 class Solution {    
 public:
@@ -22,7 +11,7 @@ public:
         return 1;
     }
     int minCost(vector<vector<int>>& grid) {
-        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, CustomComparator> pq;
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>> pq;
         set<pair<int, int>> visited;
         pq.push({0, {0, 0}});
         int arr[] = {0, -1, 0, 1, 0}, cost = 0, r, c, nr, nc, m = grid.size(),
