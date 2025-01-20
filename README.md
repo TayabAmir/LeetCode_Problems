@@ -386,6 +386,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -577,6 +578,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2455-node-with-highest-edge-score) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2834-relocate-marbles](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2834-relocate-marbles) |
@@ -929,6 +931,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2685-first-completely-painted-row-or-column](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
