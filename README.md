@@ -538,6 +538,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2834-relocate-marbles](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2834-relocate-marbles) |
+| [3447-clear-digits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -707,6 +708,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3210-count-beautiful-substrings-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3540-hash-divided-string) |
 | [3636-check-balanced-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3636-check-balanced-string) |
@@ -893,6 +895,7 @@
 | [2573-remove-nodes-from-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3447-clear-digits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
