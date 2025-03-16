@@ -953,6 +953,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Quickselect
