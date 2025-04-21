@@ -285,6 +285,7 @@
 | [0036-valid-sudoku](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0055-jump-game) |
@@ -564,6 +565,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -625,6 +627,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0148-sort-list) |
@@ -678,6 +681,7 @@
 | [0022-generate-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
