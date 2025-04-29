@@ -315,6 +315,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -503,6 +504,7 @@
 | [0119-pascals-triangle-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Greedy
@@ -784,6 +786,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
