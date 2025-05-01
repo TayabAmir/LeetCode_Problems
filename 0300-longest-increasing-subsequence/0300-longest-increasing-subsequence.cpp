@@ -1,21 +1,25 @@
 class Solution {
 public:
-    int rec(vector<vector<int>> &dp, vector<int> &nums, int lvl, int prevIdx){
+    int rec(vector<int> &dp, vector<int> &nums, int lvl){
         if(lvl == nums.size()){
             return 0;
         }
-        if(dp[lvl][prevIdx+1] != -1)
-            return dp[lvl][prevIdx+1];
-
-        int ans = rec(dp, nums, lvl+1, prevIdx);
-        if(prevIdx == -1 || nums[lvl] > nums[prevIdx]){
-            ans = max(ans,1+rec(dp, nums,lvl+1,lvl));
+        if(dp[lvl] != -1) return dp[lvl];
+        int ans = 1;
+        for(int i = 0; i < lvl; i++){
+            if(nums[i] < nums[lvl]){
+                ans = max(ans, 1+rec(dp, nums, i));
+            }
         }
-        return dp[lvl][prevIdx+1] = ans;
+        return dp[lvl] = ans;
     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(n+1, -1));
-        return rec(dp,nums, 0, -1);
+        vector<int> dp(n, -1);
+        int maxi = INT_MIN;
+        for(int i = 0; i < n; i++){
+            maxi = max(maxi, rec(dp,nums, i));
+        }
+        return maxi;
     }
 };
