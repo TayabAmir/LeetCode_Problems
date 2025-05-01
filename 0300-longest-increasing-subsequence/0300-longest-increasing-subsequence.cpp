@@ -8,7 +8,7 @@ public:
         int ans = 1;
         for(int i = 0; i < lvl; i++){
             if(nums[i] < nums[lvl]){
-                ans = max(ans, 1+rec(dp, nums, i));
+                ans = max(ans, 1+dp[i]);
             }
         }
         return dp[lvl] = ans;
