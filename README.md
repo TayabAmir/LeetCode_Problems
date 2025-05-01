@@ -419,6 +419,7 @@
 | [0002-add-two-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0202-happy-number) |
@@ -503,6 +504,7 @@
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1390,4 +1392,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
