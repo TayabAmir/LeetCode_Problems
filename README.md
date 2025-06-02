@@ -321,6 +321,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -525,6 +526,7 @@
 | [0213-house-robber-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0647-palindromic-substrings) |
@@ -986,6 +988,7 @@
 | [0130-surrounded-regions](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0566-reshape-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
@@ -1178,6 +1181,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1272,6 +1276,7 @@
 | [0226-invert-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
@@ -1393,6 +1398,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
@@ -1410,6 +1416,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1424,4 +1431,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
