@@ -523,6 +523,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -714,6 +715,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
