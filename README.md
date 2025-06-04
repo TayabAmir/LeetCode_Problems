@@ -328,6 +328,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
@@ -532,6 +533,7 @@
 | [0322-coin-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -1019,6 +1021,7 @@
 | [0051-n-queens](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0494-target-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Quickselect
 |  |
