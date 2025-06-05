@@ -739,6 +739,7 @@
 | [0692-top-k-frequent-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -1412,6 +1413,7 @@
 | [0684-redundant-connection](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2121-find-if-path-exists-in-graph](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
