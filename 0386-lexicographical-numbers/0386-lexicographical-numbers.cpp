@@ -1,12 +1,17 @@
 class Solution {
 public:
-    static bool comp(int a, int b){
-        return to_string(a) < to_string(b);
-    } 
+    void dfs(int &n, int curr, vector<int> &out){
+        if(curr > n) return;
+        out.push_back(curr);
+        for(int i = 0; i <= 9; i++){
+            dfs(n, curr*10+i ,out);
+        }
+    }
     vector<int> lexicalOrder(int n) {
-        vector<int> ans(n);
-        for(int i = 1; i <= n; i++) ans[i-1] = i;
-        sort(ans.begin(), ans.end(), comp);
+        vector<int> ans;
+    	for(int i = 1; i <= 9; i++){
+            dfs(n, i, ans);
+        }
         return ans;
     }
 };
