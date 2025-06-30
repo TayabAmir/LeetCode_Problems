@@ -606,6 +606,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0041-first-missing-positive) |
@@ -728,6 +729,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0020-valid-parentheses) |
@@ -1123,6 +1125,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
