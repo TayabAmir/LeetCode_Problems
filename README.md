@@ -794,6 +794,7 @@
 | [3447-clear-digits](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3540-hash-divided-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
