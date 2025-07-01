@@ -1,22 +1,15 @@
-struct node {
-    int freq;
-    int lastOcc;
-};
-
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int l = 0, r = 0;
-        unordered_map<int, node> mp;
+        unordered_map<int, int> mp;
         int maxi = 0;
         while(r < s.size()){
-            mp[s[r]].freq++;
-            if(mp[s[r]].freq > 1 && (l <= mp[s[r]].lastOcc && mp[s[r]].lastOcc <= r)){
-                l = mp[s[r]].lastOcc+1;
-                mp[s[r]].freq = 1;
-                mp[s[r]].lastOcc = r;
+            if(mp.find(s[r]) != mp.end() && (l <= mp[s[r]] && mp[s[r]] <= r)){
+                l = mp[s[r]]+1;
+                mp[s[r]] = r;
             } else {
-                mp[s[r]].lastOcc = r;
+                mp[s[r]] = r;
                 maxi = max(maxi, r-l+1);
             }
             r++;
