@@ -354,6 +354,7 @@
 | [1027-sum-of-even-numbers-after-queries](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -856,6 +857,7 @@
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -881,6 +883,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1130,6 +1133,7 @@
 | [0239-sliding-window-maximum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2211-k-radius-subarray-averages) |
