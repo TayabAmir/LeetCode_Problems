@@ -331,6 +331,7 @@
 | [0494-target-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -627,6 +628,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0692-top-k-frequent-words) |
@@ -889,6 +891,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
