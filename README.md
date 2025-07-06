@@ -320,6 +320,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -696,6 +697,7 @@
 | [0179-largest-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -1425,6 +1427,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0948-sort-an-array) |
 ## Geometry
 |  |
