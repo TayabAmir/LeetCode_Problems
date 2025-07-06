@@ -367,6 +367,7 @@
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1293-three-consecutive-odds](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
@@ -460,6 +461,7 @@
 | [0539-minimum-time-difference](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0897-prime-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [1014-k-closest-points-to-origin](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1014-k-closest-points-to-origin) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -645,6 +647,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -903,6 +906,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1157,6 +1161,7 @@
 | [0940-fruit-into-baskets](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
