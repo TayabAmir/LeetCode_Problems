@@ -388,6 +388,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2066-add-minimum-number-of-rungs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2066-add-minimum-number-of-rungs) |
 | [2089-maximum-matrix-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2089-maximum-matrix-sum) |
@@ -651,6 +652,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2413-smallest-number-in-infinite-set](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
@@ -931,6 +933,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1767-design-front-middle-back-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1767-design-front-middle-back-queue) |
 | [1955-seat-reservation-manager](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1955-seat-reservation-manager) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
