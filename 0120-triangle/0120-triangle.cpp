@@ -1,16 +1,17 @@
 class Solution {
 public:
-    int minimumTotal(vector<vector<int>>& tri) {
-        int m = tri.size();
-        vector<int> dp(m*(m+1) / 2, -1);
-
-        function<int(int,int)> rec = [&](int r, int c) -> int {
-            if(r >= m || c > r) return 0;
-        
-            if(dp[(r*(r+1)/2)+c] != -1) return dp[(r*(r+1)/2)+c];
-
-            return dp[(r*(r+1)/2)+c] = tri[r][c] + min(rec(r+1, c), rec(r+1, c+1));
-        };
-        return rec(0,0);
+    int p(int e){
+        return e * (e + 1) / 2;
+    }
+    int minimumTotal(vector<vector<int>>& a) {
+        int n = a.size();
+        vector<int> dp(p(n), -1);
+        dp[0] = a[0][0];
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j <= i; j++){
+                dp[p(i) + j] = min((j <= i-1) ? a[i][j]+dp[p(i-1)+j] : INT_MAX, (j-1 >= 0) ? a[i][j]+dp[p(i-1)+(j-1)] : INT_MAX);
+            }
+        }
+        return *min_element(dp.begin()+p(n-1), dp.end());
     }
 };
