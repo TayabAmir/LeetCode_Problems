@@ -444,6 +444,7 @@
 | [0002-add-two-numbers](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -535,6 +536,7 @@
 | [0042-trapping-rain-water](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
@@ -1185,6 +1187,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Tree
 |  |
