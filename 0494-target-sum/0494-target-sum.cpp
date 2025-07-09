@@ -1,27 +1,15 @@
 class Solution {
 public:
+    const int offset = 1500;
+    int rec(int lvl, int rem, int n, vector<int> &a, vector<vector<int>> &dp){
+        if(lvl == n) return rem == 0;
+        int idx = (rem < 0) ? rem + offset : rem;
+        if(dp[lvl][idx] != -1) return dp[lvl][idx];
+        return dp[lvl][idx] = rec(lvl+1, rem-a[lvl], n, a, dp) + rec(lvl+1, rem+a[lvl], n, a, dp);
+    }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
-        vector<vector<int>> dp(21, vector<int>(5000, INT_MIN));
-
-        function<int(int,int)> rec = [&](int lvl, int amount) -> int {
-            if(lvl == n){
-                if(amount == 0) return 1;
-                return 0;
-            }
-            if(amount < 0){
-                if(dp[lvl][amount+2500] != INT_MIN) return dp[lvl][amount+2500];
-            } else {
-                if(dp[lvl][amount] != INT_MIN) return dp[lvl][amount];
-            }
-            int p = rec(lvl+1, amount-nums[lvl]); 
-            int n = rec(lvl+1, amount+nums[lvl]);
-            if(amount < 0)
-                dp[lvl][amount+2500] = p+n;
-            else
-                dp[lvl][amount] = p+n;
-            return p+n;
-        };
-        return rec(0, target);
+        vector<vector<int>> dp(n, vector<int>(5000, -1));
+        return rec(0, target, n, nums, dp);
     }
 };
