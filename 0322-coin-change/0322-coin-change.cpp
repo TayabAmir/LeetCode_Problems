@@ -2,23 +2,18 @@ class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>> dp(n+1, vector<int>(amount+1, -1));
-        function<int(int, int)> rec = [&](int lvl, int amount) -> int {
-            if(lvl == n) return INT_MAX;
-            if(amount == 0) return 0;
+        vector<vector<int>> dp(n, vector<int> (amount+1, -1));
 
-            if(dp[lvl][amount] != -1) return dp[lvl][amount];
-
-            int skip = rec(lvl+1, amount);
-            if(coins[lvl] <= amount){
-                int res = rec(lvl, amount-coins[lvl]);
-                if(res != INT_MAX){
-                    skip = min(skip, 1+res);
-                }
-            }
-            return dp[lvl][amount] = skip;
+        function<int(int,int)> fn = [&](int lvl, int curr)->int{
+            if(curr == 0) return 0;
+            if(lvl == n || curr < 0) return INT_MAX;
+            if(dp[lvl][curr] != -1) return dp[lvl][curr];
+            int ans = fn(lvl+1, curr), temp = fn(lvl, curr-coins[lvl]);
+            if(temp != INT_MAX) 
+                ans = min(ans, 1+temp);
+            return dp[lvl][curr] = ans;
         };
-        int res = rec(0, amount);
-        return (res != INT_MAX) ? res : -1;
+        int res =fn(0, amount);
+        return  res == INT_MAX ? -1 : res ;
     }
 };
