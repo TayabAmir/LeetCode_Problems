@@ -340,6 +340,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0739-daily-temperatures) |
@@ -559,6 +560,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
@@ -576,6 +578,7 @@
 | [0179-largest-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0917-boats-to-save-people) |
