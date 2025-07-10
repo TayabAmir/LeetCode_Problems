@@ -562,6 +562,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1559-cherry-pickup-ii) |
@@ -800,6 +801,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
