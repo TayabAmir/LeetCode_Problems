@@ -1,15 +1,19 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int profit = 0, curr = prices[0];
-        for(int i = 1; i < prices.size(); ++i){
-            if(prices[i] > curr){
-                profit += (prices[i] - curr);
-                curr = prices[i];
+    int maxProfit(vector<int>& a) {
+        int n = a.size();
+        vector<vector<int>> dp(n, vector<int>(2, -1));
+        function<int(int, int)> rec = [&](int lvl, int buy) -> int {
+            if(lvl == n) return 0;
+            if(dp[lvl][buy] != -1) return dp[lvl][buy];
+            int ans;
+            if(buy){
+                ans = max(rec(lvl+1, false) - a[lvl], rec(lvl+1, true));
             } else {
-                curr = prices[i];
+                ans = max(rec(lvl+1, true) + a[lvl], rec(lvl+1, false));
             }
-        }
-        return profit;
+            return dp[lvl][buy] = ans;
+        };
+        return rec(0, 1);
     }
 };
