@@ -342,6 +342,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
@@ -569,6 +570,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1496,6 +1498,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
@@ -1554,4 +1557,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
