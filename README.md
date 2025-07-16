@@ -462,6 +462,7 @@
 | [0202-happy-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
@@ -563,6 +564,7 @@
 | [0152-maximum-product-subarray](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0312-burst-balloons) |
@@ -659,6 +661,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0355-design-twitter) |
@@ -869,6 +872,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
