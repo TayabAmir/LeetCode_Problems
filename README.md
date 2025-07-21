@@ -468,6 +468,7 @@
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0492-construct-the-rectangle) |
@@ -665,6 +666,7 @@
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0355-design-twitter) |
+| [0398-random-pick-index](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -1463,10 +1465,12 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0398-random-pick-index) |
 ## String Matching
 |  |
 | ------- |
