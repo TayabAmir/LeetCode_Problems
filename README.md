@@ -467,6 +467,7 @@
 | [0264-ugly-number-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0382-linked-list-random-node) |
@@ -1018,6 +1019,7 @@
 | [0231-power-of-two](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
