@@ -858,6 +858,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2378-sender-with-largest-word-count](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2378-sender-with-largest-word-count) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2465-shifting-letters-ii) |
