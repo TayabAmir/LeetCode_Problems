@@ -393,6 +393,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1559-cherry-pickup-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1720-crawler-log-folder](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
 | [1767-design-front-middle-back-queue](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1767-design-front-middle-back-queue) |
@@ -595,6 +596,7 @@
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1559-cherry-pickup-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/TayabAmir/LeetCode_Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
@@ -1241,6 +1243,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/TayabAmir/LeetCode_Problems/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/TayabAmir/LeetCode_Problems/tree/master/2211-k-radius-subarray-averages) |
